@@ -6,3 +6,5 @@ d
 ffasd
 f
 fdf
+local development
+1. oen index.html in your browser
